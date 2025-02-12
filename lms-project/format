@@ -1,0 +1,28 @@
+/lms-project
+├── /public
+│   ├── index.html
+├── /src
+│   ├── /components
+│   │   ├── Navbar.js
+│   │   ├── CourseCard.js
+│   │   ├── CourseDetail.js
+│   │   ├── Dashboard.js
+│   │   ├── Login.js
+│   │   ├── Register.js
+│   │   ├── UserProfile.js
+│   │   ├── Footer.js
+│   ├── /pages
+│   │   ├── Home.js
+│   │   ├── Courses.js
+│   │   ├── CoursePage.js
+│   │   ├── LoginPage.js
+│   │   ├── RegisterPage.js
+│   │   ├── ProfilePage.js
+│   ├── /context
+│   │   ├── AuthContext.js
+│   ├── App.js
+│   ├── index.js
+├── tailwind.config.js
+├── postcss.config.js
+├── package.json
+└── .env
